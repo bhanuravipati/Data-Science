@@ -4,7 +4,7 @@ import sklearn
 from sklearn.linear_model import LinearRegression
 import pickle
 
-model = pickle.load(open(r"C:\Users\bhanp\AI Elite 2024\estimator.pkl","rb"))
+model = pickle.load(open(r"estimator.pkl","rb"))
 
 st.image("inno1.webp")
 start_lat = st.number_input("Enter the start latitude:",)
