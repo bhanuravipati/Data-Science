@@ -1,4 +1,3 @@
-blinker
 pandas
 pickleshare
 scikit-learn
