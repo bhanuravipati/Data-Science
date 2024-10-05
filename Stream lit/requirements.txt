@@ -1,5 +1,4 @@
-pandas
-pickleshare
-scikit-learn
-streamlit
-
+numpy==2.1.1
+pandas==2.2.3
+scikit_learn==1.5.2
+streamlit==1.37.0
